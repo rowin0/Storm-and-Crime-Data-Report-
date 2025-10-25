@@ -1,0 +1,208 @@
+Date,CrimeActivity,StormActivity,Zone,City
+10/1/2019,Violent Crime,Coastal Flood,COASTAL MIAMI-DADE COUNTY,South Miami
+10/1/2019,Murder and Non-negligent manslaughter,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Biscayne Park
+10/1/2019,Motor Vehicle - Theft,Lightning,COASTAL MIAMI-DADE COUNTY,Miami Beach
+10/1/2019,Murder and Non-negligent manslaughter,Thunderstorm Wind,METROPOLITAN MIAMI-DADE,Sweetwater
+10/1/2019,Violent Crime,Tropical Storm,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/1/2019,Aggravated Assault,Hail,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/1/2019,Robbery,Lightning,COASTAL MIAMI-DADE COUNTY,Surfside
+10/1/2019,Property Crime,Lightning,MIAMI-DADE CO.,Aventura
+10/1/2019,Larcency- Theft,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/2/2019,Larcency- Theft,Lightning,MIAMI-DADE CO.,Hialeah Gardens
+10/3/2019,Burglary,Tropical Storm,COASTAL MIAMI-DADE COUNTY,Surfside
+10/3/2019,Larcency- Theft,,INLAND MIAMI-DADE,Bay Harbor Islands
+10/3/2019,Motor Vehicle - Theft,Storm Surge/Tide,METROPOLITAN MIAMI-DADE,Homestead
+10/3/2019,Larcency- Theft,Hail,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/3/2019,Larcency- Theft,Thunderstorm Wind,INLAND MIAMI-DADE,Bal Harbour
+10/3/2019,Robbery,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,Miami Beach
+10/4/2019,Burglary,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/4/2019,Violent Crime,Flash Flood,INLAND MIAMI-DADE,Bal Harbour
+10/4/2019,Burglary,Thunderstorm Wind,METROPOLITAN MIAMI-DADE,Hialeah
+10/4/2019,Aggravated Assault,Flash Flood,INLAND MIAMI-DADE,Bay Harbor Islands
+10/4/2019,Violent Crime,Coastal Flood,METROPOLITAN MIAMI-DADE,Homestead
+10/4/2019,Motor Vehicle - Theft,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,Key Biscayne
+10/5/2019,Larcency- Theft,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/5/2019,Motor Vehicle - Theft,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,North Miami
+10/5/2019,Motor Vehicle - Theft,Lightning,MIAMI-DADE CO.,Indian Creek
+10/6/2019,Violent Crime,Hail,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/6/2019,Larcency- Theft,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Biscayne Park
+10/6/2019,Motor Vehicle - Theft,,MIAMI-DADE CO.,Hialeah Gardens
+10/6/2019,Murder and Non-negligent manslaughter,Tropical Storm,MIAMI-DADE CO.,Virginia Gardens
+10/6/2019,Larcency- Theft,,COASTAL MIAMI-DADE COUNTY,Miami Beach
+10/6/2019,Burglary,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/7/2019,Property Crime,Flash Flood,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/7/2019,Robbery,Hail,COASTAL MIAMI-DADE COUNTY,Key Biscayne
+10/7/2019,Murder and Non-negligent manslaughter,Coastal Flood,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/7/2019,Motor Vehicle - Theft,,INLAND MIAMI-DADE,Bal Harbour
+10/7/2019,Robbery,Flash Flood,MIAMI-DADE CO.,Golden Beach
+10/8/2019,Robbery,Storm Surge/Tide,INLAND MIAMI-DADE,Doral
+10/8/2019,Property Crime,Tropical Storm,INLAND MIAMI-DADE,Bal Harbour
+10/8/2019,Property Crime,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Miami Beach
+10/8/2019,Aggravated Assault,,INLAND MIAMI-DADE,Bay Harbor Islands
+10/8/2019,Property Crime,,MIAMI-DADE CO.,Hialeah Gardens
+10/8/2019,Robbery,,METROPOLITAN MIAMI-DADE,Sweetwater
+10/8/2019,Murder and Non-negligent manslaughter,Lightning,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/8/2019,Aggravated Assault,Lightning,MIAMI-DADE CO.,Indian Creek
+10/8/2019,Burglary,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,Surfside
+10/9/2019,Burglary,Thunderstorm Wind,METROPOLITAN MIAMI-DADE,Homestead
+10/9/2019,Motor Vehicle - Theft,Hail,MIAMI-DADE CO.,Medley
+10/9/2019,Violent Crime,,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/9/2019,Larcency- Theft,,MIAMI-DADE CO.,Medley
+10/9/2019,Burglary,Lightning,COASTAL MIAMI-DADE COUNTY,Surfside
+10/9/2019,Burglary,Flash Flood,METROPOLITAN MIAMI-DADE,Sweetwater
+10/10/2019,Aggravated Assault,Tropical Storm,COASTAL MIAMI-DADE COUNTY,North Miami
+10/10/2019,Violent Crime,Strong Wind Rain,MIAMI-DADE CO.,Virginia Gardens
+10/11/2019,Violent Crime,Lightning,INLAND MIAMI-DADE,Bay Harbor Islands
+10/11/2019,Larcency- Theft,Lightning,INLAND MIAMI-DADE,Doral
+10/11/2019,Larcency- Theft,,METROPOLITAN MIAMI-DADE,Sweetwater
+10/11/2019,Burglary,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/11/2019,Larcency- Theft,Coastal Flood,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/11/2019,Murder and Non-negligent manslaughter,Strong Wind Rain,MIAMI-DADE CO.,Cutler Bay
+10/11/2019,Burglary,Flash Flood,METROPOLITAN MIAMI-DADE,Pinecrest
+10/12/2019,Property Crime,Strong Wind Rain,METROPOLITAN MIAMI-DADE,Hialeah
+10/12/2019,Motor Vehicle - Theft,Storm Surge/Tide,MIAMI-DADE CO.,Golden Beach
+10/12/2019,Motor Vehicle - Theft,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/12/2019,Murder and Non-negligent manslaughter,Storm Surge/Tide,MIAMI-DADE CO.,El Portal
+10/12/2019,Murder and Non-negligent manslaughter,,METROPOLITAN MIAMI-DADE,Florida City
+10/12/2019,Murder and Non-negligent manslaughter,Tropical Storm,METROPOLITAN MIAMI-DADE,Hialeah
+10/12/2019,Aggravated Assault,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/12/2019,Motor Vehicle - Theft,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Surfside
+10/12/2019,Motor Vehicle - Theft,,MIAMI-DADE CO.,Opa-locka
+10/13/2019,Violent Crime,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/13/2019,Aggravated Assault,Hail,COASTAL MIAMI-DADE COUNTY,West Miami
+10/13/2019,Violent Crime,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Surfside
+10/13/2019,Burglary,Coastal Flood,INLAND MIAMI-DADE,Palmetto Bay
+10/13/2019,Property Crime,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Sunny Isles Beach
+10/13/2019,Violent Crime,,INLAND MIAMI-DADE,Bal Harbour
+10/13/2019,Larcency- Theft,Hail,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/14/2019,Violent Crime,Flash Flood,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/14/2019,Property Crime,Hail,COASTAL MIAMI-DADE COUNTY,Surfside
+10/14/2019,Motor Vehicle - Theft,Strong Wind Rain,MIAMI-DADE CO.,Virginia Gardens
+10/14/2019,Property Crime,Hail,COASTAL MIAMI-DADE COUNTY,Surfside
+10/14/2019,Violent Crime,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Key Biscayne
+10/14/2019,Robbery,Hail,COASTAL MIAMI-DADE COUNTY,South Miami
+10/14/2019,Robbery,Tropical Storm,METROPOLITAN MIAMI-DADE,Pinecrest
+10/14/2019,Burglary,Hail,MIAMI-DADE CO.,Indian Creek
+10/14/2019,Property Crime,Flash Flood,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/15/2019,Murder and Non-negligent manslaughter,Storm Surge/Tide,INLAND MIAMI-DADE,Miami
+10/15/2019,Robbery,Strong Wind Rain,MIAMI-DADE CO.,Indian Creek
+10/15/2019,Violent Crime,Hail,INLAND MIAMI-DADE,Bal Harbour
+10/15/2019,Violent Crime,Strong Wind Rain,MIAMI-DADE CO.,Virginia Gardens
+10/15/2019,Larcency- Theft,Lightning,COASTAL MIAMI-DADE COUNTY,Sunny Isles Beach
+10/15/2019,Murder and Non-negligent manslaughter,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/16/2019,Burglary,Flash Flood,METROPOLITAN MIAMI-DADE,Homestead
+10/16/2019,Motor Vehicle - Theft,,MIAMI-DADE CO.,Cutler Bay
+10/16/2019,Larcency- Theft,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/16/2019,Robbery,Thunderstorm Wind,INLAND MIAMI-DADE,Doral
+10/16/2019,Violent Crime,Tropical Storm,INLAND MIAMI-DADE,Coral Gables
+10/16/2019,Larcency- Theft,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Surfside
+10/16/2019,Robbery,Strong Wind Rain,METROPOLITAN MIAMI-DADE,Pinecrest
+10/16/2019,Murder and Non-negligent manslaughter,,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/16/2019,Robbery,,METROPOLITAN MIAMI-DADE,Homestead
+10/17/2019,Violent Crime,Tropical Storm,COASTAL MIAMI-DADE COUNTY,South Miami
+10/17/2019,Larcency- Theft,,MIAMI-DADE CO.,Aventura
+10/17/2019,Robbery,Tropical Storm,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/17/2019,Larcency- Theft,Strong Wind Rain,METROPOLITAN MIAMI-DADE,Homestead
+10/17/2019,Violent Crime,Thunderstorm Wind,INLAND MIAMI-DADE,Palmetto Bay
+10/17/2019,Murder and Non-negligent manslaughter,Strong Wind Rain,INLAND MIAMI-DADE,Bal Harbour
+10/17/2019,Larcency- Theft,Hail,METROPOLITAN MIAMI-DADE,Florida City
+10/17/2019,Burglary,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Beach
+10/18/2019,Aggravated Assault,,COASTAL MIAMI-DADE COUNTY,North Miami
+10/18/2019,Property Crime,Flash Flood,MIAMI-DADE CO.,El Portal
+10/18/2019,Murder and Non-negligent manslaughter,Hail,MIAMI-DADE CO.,Opa-locka
+10/18/2019,Property Crime,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Lakes
+10/18/2019,Motor Vehicle - Theft,,COASTAL MIAMI-DADE COUNTY,Biscayne Park
+10/18/2019,Murder and Non-negligent manslaughter,Tropical Storm,MIAMI-DADE CO.,Virginia Gardens
+10/18/2019,Violent Crime,Strong Wind Rain,MIAMI-DADE CO.,Opa-locka
+10/18/2019,Property Crime,Storm Surge/Tide,METROPOLITAN MIAMI-DADE,Pinecrest
+10/19/2019,Property Crime,,COASTAL MIAMI-DADE COUNTY,Sunny Isles Beach
+10/19/2019,Violent Crime,Thunderstorm Wind,MIAMI-DADE CO.,Cutler Bay
+10/19/2019,Violent Crime,Strong Wind Rain,METROPOLITAN MIAMI-DADE,Florida City
+10/19/2019,Burglary,Hail,METROPOLITAN MIAMI-DADE,Homestead
+10/19/2019,Burglary,Hail,METROPOLITAN MIAMI-DADE,Pinecrest
+10/19/2019,Aggravated Assault,Tropical Storm,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/19/2019,Aggravated Assault,Storm Surge/Tide,MIAMI-DADE CO.,El Portal
+10/19/2019,Motor Vehicle - Theft,Coastal Flood,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/19/2019,Motor Vehicle - Theft,Flash Flood,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/19/2019,Murder and Non-negligent manslaughter,Strong Wind Rain,INLAND MIAMI-DADE,Bal Harbour
+10/20/2019,Larcency- Theft,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,South Miami
+10/20/2019,Murder and Non-negligent manslaughter,Storm Surge/Tide,MIAMI-DADE CO.,Cutler Bay
+10/20/2019,Murder and Non-negligent manslaughter,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/20/2019,Property Crime,Lightning,INLAND MIAMI-DADE,Palmetto Bay
+10/20/2019,Robbery,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,West Miami
+10/20/2019,Larcency- Theft,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,West Miami
+10/20/2019,Robbery,,COASTAL MIAMI-DADE COUNTY,Surfside
+10/21/2019,Burglary,,INLAND MIAMI-DADE,Palmetto Bay
+10/21/2019,Property Crime,,METROPOLITAN MIAMI-DADE,Pinecrest
+10/21/2019,Violent Crime,Coastal Flood,COASTAL MIAMI-DADE COUNTY,South Miami
+10/21/2019,Robbery,Thunderstorm Wind,MIAMI-DADE CO.,Virginia Gardens
+10/21/2019,Larcency- Theft,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,South Miami
+10/22/2019,Property Crime,Tropical Storm,METROPOLITAN MIAMI-DADE,Florida City
+10/22/2019,Aggravated Assault,Hail,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/22/2019,Property Crime,Flash Flood,MIAMI-DADE CO.,Golden Beach
+10/22/2019,Violent Crime,Hail,MIAMI-DADE CO.,Hialeah Gardens
+10/22/2019,Burglary,Hail,INLAND MIAMI-DADE,Bay Harbor Islands
+10/22/2019,Burglary,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/22/2019,Aggravated Assault,Strong Wind Rain,MIAMI-DADE CO.,Cutler Bay
+10/22/2019,Violent Crime,Lightning,MIAMI-DADE CO.,El Portal
+10/23/2019,Motor Vehicle - Theft,,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/23/2019,Murder and Non-negligent manslaughter,Hail,COASTAL MIAMI-DADE COUNTY,North Miami Beach
+10/23/2019,Property Crime,Tropical Storm,COASTAL MIAMI-DADE COUNTY,North Miami
+10/24/2019,Motor Vehicle - Theft,Flash Flood,MIAMI-DADE CO.,Opa-locka
+10/24/2019,Robbery,,COASTAL MIAMI-DADE COUNTY,Miami Lakes
+10/24/2019,Larcency- Theft,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/24/2019,Property Crime,Lightning,COASTAL MIAMI-DADE COUNTY,North Miami
+10/24/2019,Aggravated Assault,Storm Surge/Tide,MIAMI-DADE CO.,El Portal
+10/24/2019,Property Crime,,METROPOLITAN MIAMI-DADE,Florida City
+10/24/2019,Burglary,Coastal Flood,METROPOLITAN MIAMI-DADE,Pinecrest
+10/25/2019,Larcency- Theft,Thunderstorm Wind,MIAMI-DADE CO.,Hialeah Gardens
+10/25/2019,Property Crime,Flash Flood,MIAMI-DADE CO.,Indian Creek
+10/25/2019,Robbery,,COASTAL MIAMI-DADE COUNTY,Miami Lakes
+10/25/2019,Larcency- Theft,,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/25/2019,Aggravated Assault,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,Sunny Isles Beach
+10/25/2019,Property Crime,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Key Biscayne
+10/25/2019,Burglary,Hail,METROPOLITAN MIAMI-DADE,Homestead
+10/25/2019,Larcency- Theft,Thunderstorm Wind,MIAMI-DADE CO.,Virginia Gardens
+10/26/2019,Burglary,,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/26/2019,Larcency- Theft,Strong Wind Rain,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/26/2019,Aggravated Assault,Tropical Storm,MIAMI-DADE CO.,Virginia Gardens
+10/26/2019,Aggravated Assault,Hail,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/26/2019,Murder and Non-negligent manslaughter,Lightning,MIAMI-DADE CO.,Hialeah Gardens
+10/26/2019,Burglary,Hail,METROPOLITAN MIAMI-DADE,Hialeah
+10/27/2019,Larcency- Theft,,COASTAL MIAMI-DADE COUNTY,North Miami
+10/27/2019,Property Crime,Tropical Storm,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/27/2019,Property Crime,,COASTAL MIAMI-DADE COUNTY,West Miami
+10/27/2019,Motor Vehicle - Theft,,METROPOLITAN MIAMI-DADE,Sweetwater
+10/27/2019,Violent Crime,Storm Surge/Tide,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/27/2019,Burglary,Lightning,COASTAL MIAMI-DADE COUNTY,Miami Gardens
+10/27/2019,Burglary,Hail,INLAND MIAMI-DADE,Bal Harbour
+10/27/2019,Motor Vehicle - Theft,Hail,COASTAL MIAMI-DADE COUNTY,Miami Shores
+10/28/2019,Motor Vehicle - Theft,,COASTAL MIAMI-DADE COUNTY,North Bay Village
+10/28/2019,Robbery,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,North Miami
+10/28/2019,Robbery,,METROPOLITAN MIAMI-DADE,Florida City
+10/28/2019,Violent Crime,Flash Flood,MIAMI-DADE CO.,Hialeah Gardens
+10/28/2019,Property Crime,Coastal Flood,INLAND MIAMI-DADE,Miami
+10/28/2019,Violent Crime,Storm Surge/Tide,INLAND MIAMI-DADE,Palmetto Bay
+10/28/2019,Motor Vehicle - Theft,,INLAND MIAMI-DADE,Palmetto Bay
+10/28/2019,Murder and Non-negligent manslaughter,Tropical Storm,MIAMI-DADE CO.,Cutler Bay
+10/29/2019,Robbery,Hail,INLAND MIAMI-DADE,Bal Harbour
+10/29/2019,Robbery,Flash Flood,MIAMI-DADE CO.,Golden Beach
+10/29/2019,Violent Crime,Hail,MIAMI-DADE CO.,Cutler Bay
+10/29/2019,Burglary,Coastal Flood,COASTAL MIAMI-DADE COUNTY,South Miami
+10/30/2019,Aggravated Assault,,MIAMI-DADE CO.,Cutler Bay
+10/30/2019,Murder and Non-negligent manslaughter,Tropical Storm,COASTAL MIAMI-DADE COUNTY,Sunny Isles Beach
+10/30/2019,Aggravated Assault,,INLAND MIAMI-DADE,Palmetto Bay
+10/30/2019,Aggravated Assault,Lightning,COASTAL MIAMI-DADE COUNTY,Miami Springs
+10/30/2019,Robbery,,INLAND MIAMI-DADE,Doral
+10/30/2019,Motor Vehicle - Theft,Strong Wind Rain,METROPOLITAN MIAMI-DADE,Hialeah
+10/30/2019,Murder and Non-negligent manslaughter,,INLAND MIAMI-DADE,Doral
+10/30/2019,Motor Vehicle - Theft,Tropical Storm,INLAND MIAMI-DADE,Bay Harbor Islands
+10/31/2019,Property Crime,Tropical Storm,METROPOLITAN MIAMI-DADE,Homestead
+10/31/2019,Aggravated Assault,Thunderstorm Wind,MIAMI-DADE CO.,El Portal
+10/31/2019,Motor Vehicle - Theft,Thunderstorm Wind,COASTAL MIAMI-DADE COUNTY,Miami Beach
+10/31/2019,Burglary,Hail,INLAND MIAMI-DADE,Bay Harbor Islands
+10/31/2019,Aggravated Assault,Hail,METROPOLITAN MIAMI-DADE,Pinecrest
+10/31/2019,Murder and Non-negligent manslaughter,Strong Wind Rain,INLAND MIAMI-DADE,Bay Harbor Islands
+10/31/2019,Motor Vehicle - Theft,,MIAMI-DADE CO.,Virginia Gardens
+10/31/2019,Motor Vehicle - Theft,Lightning,COASTAL MIAMI-DADE COUNTY,South Miami
+10/31/2019,Murder and Non-negligent manslaughter,Thunderstorm Wind,METROPOLITAN MIAMI-DADE,Homestead
