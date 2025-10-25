@@ -4,7 +4,7 @@ The Miami police department has requested a Storm report and Crime Data Report (
 Insights and recommendations are provided in the following
 * relationship between a dependent variable, in our case crime rate, and an independent variable, in our case storm factors like flood, hail or thunderstorm
 * predictive analysis to determin the probability of crime happening in certain areas.
-## Parameters and collect data
+## Parameters and data collection
 To create the report and analyze the connection between storms and crime incidents, the relevant weather data variables required for analysis should include weather variables like costal flood, strong wind rain, lighting, thunderstorm wind, tropical storm, hail, storm surge/tide and flash flood. Also, we have to look at the criminal data variables, violent crime, murder and non-negligent manslaughter, motor vehicle theft, aggravated assault, robbery, property crime, larceny -theft, and burglary. 
 <img width="746" height="284" alt="image" src="https://github.com/user-attachments/assets/8c6041db-8a58-4c79-9af6-37ad5b92f9b4" />
 By doing a bar chart we can illustrate Storm activity and crime activity for each day of October, from the results we can see that both variables are very close to each other. 
